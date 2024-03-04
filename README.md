@@ -10,3 +10,4 @@ Mente Assigment from IBM Advance AI @ Infinite Learning Create Your Own Chatbot 
 Name : Dian Novita Sinambela
 
 Program : IBM Advance AI
+Tech Stack : . python . HTML . JavaScript . Flask
